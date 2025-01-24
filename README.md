@@ -22,7 +22,7 @@
 - [Code of conduct](#code-of-conduct)
 - [Team](#team)
 
-# Summary
+# ✅ Summary
 
 The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
@@ -74,7 +74,7 @@ just remember that you can't purchase success!
 
 **[Getting help](HELP.md)** (Details about our FAQ and chatroom)
 
-# Community
+# ✅ Community
 
 - We have a Discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
@@ -85,7 +85,7 @@ just remember that you can't purchase success!
 >  - An unmaintained and deprecated trello board
 >  - Third-party notion templates
 
-# Curriculum
+# 📝 Curriculum
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
