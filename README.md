@@ -89,8 +89,8 @@ just remember that you can't purchase success!
 
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
--✅ [Prerequisites](#prerequisites)
-  -📝 [Intro CS](#intro-cs)
+- ✅ [Prerequisites](#prerequisites)
+- 📝 [Intro CS](#intro-cs)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
